@@ -70,7 +70,7 @@
 	<h1>Testing AppFog!</h1>
 
 	<div id="body">
-		<p>This is a test of AppFog, updating via Git Hook.</p>
+		<p>This is a test no.1 of AppFog, updating via Git Hook.</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
 		<code>application/views/welcome_message.php</code>
