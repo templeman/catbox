@@ -67,7 +67,7 @@
 <body>
 
 <div id="container">
-	<h1>2 Testing AppFog!</h1>
+	<h1>3 Testing AppFog!</h1>
 
 	<div id="body">
 		<p>This is a test no.1 of AppFog, updating via Git Hook.</p>
