@@ -1,5 +1,7 @@
 <?php
 
+/* Here is a custom comment */
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
