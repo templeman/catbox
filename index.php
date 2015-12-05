@@ -1,6 +1,8 @@
 <?php
 
 /* Here is a custom comment */
+/* Here is another custom comment */
+
 
 /*
  *---------------------------------------------------------------
