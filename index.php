@@ -2,6 +2,7 @@
 
 /* Here is a custom comment */
 /* Here is another custom comment */
+/* Here is comment number three */
 
 
 /*
